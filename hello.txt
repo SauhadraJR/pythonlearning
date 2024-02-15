@@ -1,0 +1,1 @@
+Hello, this content is used in file handling program.
